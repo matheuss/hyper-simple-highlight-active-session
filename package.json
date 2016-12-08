@@ -1,0 +1,12 @@
+{
+  "name": "hyper-simple-highlight-active-session",
+  "version": "0.1.0",
+  "description": "Simple plugin to demonstrate the usage of the `.term_active` CSS class on Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Fernandes <npm@matheus.top> (https://matheus.top/)",
+  "license": "MIT",
+  "repository": "matheuss/hyper-simple-highlight-active-session"
+}
